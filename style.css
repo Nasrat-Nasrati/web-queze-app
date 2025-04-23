@@ -1,0 +1,17 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  .container {
+    max-width: 900px;
+  }
+  
+  #quiz-container p {
+    font-weight: 500;
+  }
+  
+  .form-check-label {
+    margin-left: 8px;
+  }
+  
